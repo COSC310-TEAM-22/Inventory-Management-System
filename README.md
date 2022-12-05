@@ -88,6 +88,29 @@ Open VS code and create a connection to the database using the username and pass
 <img width="455" alt="Screen Shot 2022-11-13 at 6 44 29 PM" src="https://user-images.githubusercontent.com/84111301/201564680-5649b1e4-bdaf-47f6-8a86-8120bcdb2132.png">
 <img width="386" alt="Screen Shot 2022-11-13 at 6 45 43 PM" src="https://user-images.githubusercontent.com/84111301/201564689-77719d54-0225-4b15-aac4-acb046e6c951.png">
 
+#READ ME 3
+-In this iteration I added two functionalitites to enable the user to create events and tasks and diplay them.
+-I used:
+(i)Google Calendar API-to create events
+(ii)Google Tasks API-to create a taskList(TO DO LIST) AND task
+
+#Google Calendar API 
+-An example of an event for our system is the delivery of an order
+-The user would create an event for the order that includes the date and time it arrives and person responsible.
+-This would be added to the google calendar for the email(admin) used for authentication process of the API
+-An email would be sent to the person responsible for the task as a form of reminder.
+-The events that have been created are displayed on the users main page using a get function
+-This new functionality helps the user keep track of and plan events such orders,restock and auting keeping them more organized
+
+#Google Tasks API
+-I used the API to create a to do list for the user
+-The user is able to create tasks(TO DO'S) and check them as completed after they have done
+-The main page shows tasks that have not yet been completed
+-This serves as productivity tool that helps the user plan their or week and accomplish their tasks
+
+
+
+
 
 
 
