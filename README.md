@@ -94,7 +94,7 @@ Open VS code and create a connection to the database using the username and pass
 (i)Google Calendar API-to create events
 (ii)Google Tasks API-to create a taskList(TO DO LIST) AND task
 
-#Google Calendar API 
+# Google Calendar API 
 -An example of an event for our system is the delivery of an order
 -The user would create an event for the order that includes the date and time it arrives and person responsible.
 -This would be added to the google calendar for the email(admin) used for authentication process of the API
@@ -102,7 +102,7 @@ Open VS code and create a connection to the database using the username and pass
 -The events that have been created are displayed on the users main page using a get function
 -This new functionality helps the user keep track of and plan events such orders,restock and auting keeping them more organized
 
-#Google Tasks API
+# Google Tasks API
 -I used the API to create a to do list for the user
 -The user is able to create tasks(TO DO'S) and check them as completed after they have done
 -The main page shows tasks that have not yet been completed
