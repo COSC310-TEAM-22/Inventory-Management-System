@@ -88,7 +88,7 @@ Open VS code and create a connection to the database using the username and pass
 <img width="455" alt="Screen Shot 2022-11-13 at 6 44 29 PM" src="https://user-images.githubusercontent.com/84111301/201564680-5649b1e4-bdaf-47f6-8a86-8120bcdb2132.png">
 <img width="386" alt="Screen Shot 2022-11-13 at 6 45 43 PM" src="https://user-images.githubusercontent.com/84111301/201564689-77719d54-0225-4b15-aac4-acb046e6c951.png">
 
-#READ ME 3
+# READ ME 3
 -In this iteration I added two functionalitites to enable the user to create events and tasks and diplay them.
 -I used:
 (i)Google Calendar API-to create events
